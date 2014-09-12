@@ -1,0 +1,13 @@
+UI:
+  - show when typing
+  - show user name/picture
+  - show seen
+  - show timestamps
+  - convert :) to smiley
+  - 
+
+- invite friends link: redirects to signup and automatically makes both users
+  friends
+- add friend page (search by name or username)
+- preferences (display name, picture, ui settings)
+- multiple chat support (tabs?
